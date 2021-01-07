@@ -1,0 +1,35 @@
+{
+  "Reservations": [
+    {
+      "Groups": [],
+      "Instances": [
+        {
+          "PublicIpAddress": "52.59.188.175",
+          "Tags": [
+            {
+              "Key": "size",
+              "Value": "XXS"
+            },
+            {
+              "Key": "Name",
+              "Value": "Test Inventory"
+            }
+          ]
+        },
+        {
+          "PublicIpAddress": "52.59.188.114",
+          "Tags": [
+            {
+              "Key": "size",
+              "Value": "M"
+            },
+            {
+              "Key": "Name",
+              "Value": "Test Inventory II"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
